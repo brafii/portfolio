@@ -75,3 +75,12 @@ body{
     color: var(--main-white);
     border-top: 4px solid var(--main-red);
 }
+.social1 a{
+    color: var(--main-white);
+    font-size: 1.4em;
+    text-shadow: 2px 2px 1px #1f1f1f;
+    transition: transform 0.3s ease-out;
+}
+.social1 a:hover{
+    color: var(--main-white);
+}
