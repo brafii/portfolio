@@ -70,3 +70,8 @@ body{
     font-style: italic;
     font-weight: lighter;
 }
+.sub-footer{
+    background-color: var(--main-gray);
+    color: var(--main-white);
+    border-top: 4px solid var(--main-red);
+}
